@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Critterpedia</string>
+    <string name="profile_icon_text">Profile</string>
+    <string name="critter_icon_temp_text">Critters</string>
 </resources>
